@@ -1,2 +1,3 @@
 # rs3-plugin-template
-Repo template for RuneScape plugins
+
+Repo template for RuneScape plugins.
